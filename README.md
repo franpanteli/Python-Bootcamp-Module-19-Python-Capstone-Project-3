@@ -27,5 +27,6 @@ This repository is organised into the following sections:
    slides from this module are [here](https://github.com/franpanteli/Python-Bootcamp-Module-19-Python-Capstone-Project-3/blob/main/Capstone%20Project%203%20Slides.pdf).
 
 ### To Clone This Repository
-```git clone https://github.com/franpanteli/Python-Bootcamp-Module-19-Python-Capstone-Project-3.git
+```
+git clone https://github.com/franpanteli/Python-Bootcamp-Module-19-Python-Capstone-Project-3.git
 ```
