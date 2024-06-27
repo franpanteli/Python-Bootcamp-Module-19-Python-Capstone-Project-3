@@ -20,7 +20,7 @@ This repository is organised into the following sections:
    - [Solution Links](https://github.com/franpanteli/Python-Bootcamp-Module-19-Python-Capstone-Project-3/blob/main/Jupyter%20Notebooks%20-%20Capstone%20Project%203/Projects-Solutions/Solution%20Links.md)
 
 2. **Notes on Videos:**
-   this section contains PDF notes summarising the key points from the video lectures in Module 19.
+   this section contains my PDF notes summarising the key points from the video lectures in Module 19.
    - [1 of 1 Final Capstone Python Project](https://github.com/franpanteli/Python-Bootcamp-Module-19-Python-Capstone-Project-3/blob/main/Notes%20on%20Videos%20-%20Module%2019%20Python%20Capstone%20Project%203/1%20of%201%20Final%20Capstone%20Python%20Project.pdf)
 
 3. **Slides:**
